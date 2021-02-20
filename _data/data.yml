@@ -66,6 +66,7 @@ education:
     - degree: Bachelor of Science (B. S.)
       university: Beijing University of Chemical Technology
       time: 2003 - 2007
+      details:
 
 # --------------------------------      
 experiences:
@@ -81,7 +82,7 @@ experiences:
       details: |
           - Bullet point
           - Bullet point
-    - role: UI Developer
+    - role: Volunteer
       time: 2019
       company: Peabody School, Charlottesville VA
       details: |
@@ -108,6 +109,9 @@ skills:
         level: 98%
        
       - name: Google Office suite
+        level: 95%
+        
+      - name: Seesaw
         level: 95%
 
 
