@@ -39,7 +39,7 @@ sidebar:
       - item: Music
         link:
 
-      - item: Movie
+      - item: Hiking
         link:
 
 # --------------------------------
@@ -53,7 +53,7 @@ education:
     - degree: Master of Education (M. Ed.)
       university: University of Virginia
       time: 2020 - 2021
-      details: 
+      details: Postgraduate Professional License (PreK - 6)
     - degree: Master of Science (M. S.)
       university: Beijing University of Chemical Technology
       time: 2007 - 2010
@@ -65,12 +65,13 @@ education:
 
 # --------------------------------      
 experiences:
-    - role: Second Grade Student Teacher
-      time: Jan. 2021 - Present
-      company: Jackson Via Elementary School, Charlottesville VA
+    - role: Student Teacher, First Grade
+      time: 2021.3 – 2021.5
+      company: Stone Robinson Elementary School, Albemarle County, VA
       details: |
-          - Bullet point
-          - Bullet point
+          - Designed and implemented inqury-based lesson plans in accordance with the Standards of Learning (SOL) for Virginia Public Schools.
+          - Took 75% of the instructional responsibility, including organizing and leading the whole group and small groups activities to promote active learning, and assessing students’ learning progress by observation, testing, and homework.
+          - Hosted virtual home visits to communicate with parents and build partnership with the students’ family.
     - role: First Grade Student Teacher
       time: Aug. 2020 - Nov. 2020
       company: Stone-Robinson Elementary School, Albemarle County VA
