@@ -88,12 +88,12 @@ experiences:
 
 # --------------------------------
 projects:
-    title: Projects
+    title: Volunteering 
     intro: >
       TODO: List the projects here
     assignments:
       - title: Name
-        link: "#hook"
+        link: ""
         tagline: "Simple explanation about the project."
 
 # --------------------------------
